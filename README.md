@@ -16,6 +16,7 @@ docker run deepakdocker27/singlepixelcoordinate
 - Prepare Data
 - Installation
 - Usage
+- Pre-trained Model
 
 ## Preparing the Data <a name="preparingthedata"></a>
 <!-- **Structure:**   -->
